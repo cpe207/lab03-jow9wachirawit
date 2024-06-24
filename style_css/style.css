@@ -1,0 +1,33 @@
+.navf{
+    font-family: "Playwrite NG Modern";
+   
+}
+
+.bgs {
+    background: rgb(25,167,206);
+background: radial-gradient(circle, rgba(25,167,206,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+div a {
+    text-decoration: none;
+    font-size: large;
+    color: rgb(20, 108, 148);
+}
+
+#profile {
+    width: 200px;
+    border-radius: 40%;
+}
+
+.topic {
+    font-size: 28px;
+}
+
+.topicex {
+    font-size: 24px;
+}
+
+div a:hover{
+    font-size: 110%;
+}
+
